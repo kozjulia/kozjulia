@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Julia, Java developer from Russia
+### I'm Julia, java developer from Russia
 
 
 - 📫 How to reach me: kozjuliajulia@yandex.ru
